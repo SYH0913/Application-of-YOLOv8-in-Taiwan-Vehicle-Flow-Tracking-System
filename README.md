@@ -1,9 +1,9 @@
 # Application-of-YOLOv8-in-Taiwan-Vehicle-Flow-Tracking-System
 ### 使用YOLOv8應用於臺灣車流追蹤系統 | Taiwan Vehicle Flow Tracking System
 
-學生：蘇羿璇 Yi-Hsuan Su
-指導教授：黃承龍 Dr. Cheng-Lung Huang
-國立高雄科技大學資訊管理系碩士班
+學生：蘇羿璇 Yi-Hsuan Su 
+指導教授：黃承龍 Dr. Cheng-Lung Huang 
+國立高雄科技大學資訊管理系碩士班 
 
 ---
 
