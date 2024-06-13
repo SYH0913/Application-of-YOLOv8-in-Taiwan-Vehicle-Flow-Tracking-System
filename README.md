@@ -111,5 +111,3 @@ C. COCO123 Dataset
 Reference Link: [COCO128 Dataset](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/cfg/datasets/coco128.yaml)
 
 ---
-
-以上内容可作为项目的README.md文件的内容，详细介绍了你的研究主题、动机、使用的数据集、系统建置步骤、结论与心得、分工以及参考资料。
