@@ -5,7 +5,7 @@
 
 指導教授：黃承龍 Dr. Cheng-Lung Huang 
 
-國立高雄科技大學資訊管理系碩士班 
+國立高雄科技大學資訊管理系碩士班  National Kaohsiung University of Science and Technology Information Management Master's Program
 
 ---
 
